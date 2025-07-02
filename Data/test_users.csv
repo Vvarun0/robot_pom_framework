@@ -1,0 +1,3 @@
+username,password,Expected Message
+standard_user,standard_password,Login successfull
+locked_out_user,secret_sauce,Login unsuccessfull
