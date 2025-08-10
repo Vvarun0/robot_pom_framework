@@ -1,0 +1,9 @@
+log.html linguist-generated
+report.html linguist-generated
+output.xml linguist-generated
+.idea/ linguist-generated
+resources/ linguist-documentation
+tests/ linguist-documentation
+custom_libraries/ linguist-language=Python
+*.robot linguist-language=RobotFramework
+*.py linguist-language=Python
